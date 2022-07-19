@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
-- 📫 How to reach me: *saaimkhan221@gmail.com*
+- 📫 You can reach me at *saaimkhan221@gmail.com*
 
 - ⚡ Fun fact : *“Experience is the name everyone gives to their mistakes.”* ~ Oscar Wilde
 
