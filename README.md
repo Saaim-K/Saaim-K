@@ -16,9 +16,9 @@
 
 <h3>Connect With Me 🔗:</h3>
 
+
 <a href="https://linkedin.com/in/saaim-khan-998732221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saaim Khan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saaim Khan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Saaim Khan" height="30" width="40" /></a>
+<a href="https://codepen.io/saaim-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://github.com/Saaim-K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://fb.com/saaim.khan.1485537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_saaim.khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>
