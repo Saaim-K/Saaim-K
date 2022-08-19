@@ -94,6 +94,24 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
             alt="linux" width="40" height="40" /> </a>
 </p>
+ 
+<h3> Credentials 👨‍🎓: </h3>
+<p>
+    <img src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+    <!--
+    <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+    <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+    -->
+<p>
+ 
+ <!--
+ <p align="center">
+    <img align="left" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+    <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+    <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+<p>
+-->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Saaim-K&show_icons=true&theme=github_dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
+    
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Saaim-K&show_icons=true&theme=github_dark"/>
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
