@@ -114,4 +114,4 @@
 
     
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Saaim-K&show_icons=true&theme=github_dark"/>
-<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
