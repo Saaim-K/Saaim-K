@@ -113,5 +113,5 @@
 -->
 
     
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Saaim-K&show_icons=true&theme=github_dark"/>
-<img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
+<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=Saaim-K&show_icons=true&theme=github_dark"/>
+<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaim-K&layout=compact&theme=github_dark"/>
