@@ -103,7 +103,10 @@
     <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
     -->
 <p>
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&show_icons=true&locale=en&layout=compact" alt="saaim-k" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saaim-k&show_icons=true&locale=en" alt="saaim-k" /></p>
+
  <!--
  <p align="center">
     <img align="left" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
