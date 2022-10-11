@@ -19,7 +19,6 @@
 
 <h3>Connect With Me 🔗:</h3>
 
-
 <a href="https://linkedin.com/in/saaim-khan-998732221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://codepen.io/saaim-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/Saaim-Khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Saaim Khan" height="30" width="40" /></a>
