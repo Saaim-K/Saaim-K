@@ -113,21 +113,27 @@
 </p>
  
  
+ 
 <h3> Credentials 👨‍🎓: </h3>
+
 <p>
-    <img src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
-    <!--
-    <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
-    <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
-    -->
+        <img src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        <!--
+        <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        -->
 </p>
     
+    
+    
 <h3> Github Stats 📊: </h3>
-<p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en" alt="saaim-k" height="165" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact" alt="saaim-k" />
-</p>
 
+<p>
+        <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en"
+            alt="saaim-k" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact"
+            alt="saaim-k" />
+</p>
  <!--
  <p align="center">
     <img align="left" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
