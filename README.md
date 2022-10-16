@@ -134,6 +134,17 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact"
             alt="saaim-k" />
 </p>
+
+<details>
+        <summary>
+                <h4>
+                        Detailed Stats ⚡:
+                </h4>
+        </summary>
+        <p>
+                <img src="https://activity-graph.herokuapp.com/graph?username=Saaim-K&theme=merko&bg_color=151515&point=79fe96&line=79Fe96&area_color=57bf6e"                                width="750"/>
+        </p>
+</details>
  <!--
  <p align="center">
     <img align="left" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
