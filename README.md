@@ -148,6 +148,13 @@
                 <img src="https://activity-graph.herokuapp.com/graph?username=Saaim-K&theme=merko&bg_color=151515&point=79fe96&line=79Fe96&area_color=57bf6e"                                width="750"/>
         </p>
 </details>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
  <!--
  <p align="center">
     <img align="left" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
