@@ -133,7 +133,10 @@
             alt="saaim-k" height="165" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact"
             alt="saaim-k" />
+        <br/>
+        <img src="https://streak-stats.demolab.com/?user=Saaim-K&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA" height="165" />
 </p>
+
 
 <details>
         <summary>
