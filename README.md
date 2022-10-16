@@ -129,7 +129,7 @@
 <h3> Github Stats 📊: </h3>
 
 <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en"
+        <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10"
             alt="saaim-k" height="165" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact"
             alt="saaim-k" />
