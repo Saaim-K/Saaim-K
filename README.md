@@ -126,25 +126,22 @@
     
     
     
-<h3> Github Stats 📊: </h3>
+<h3> GitHub Stats 📊: </h3>
 
-<p>
+<p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10"
             alt="saaim-k" height="165" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaim-k&theme=dark&show_icons=true&locale=en&layout=compact"
-            alt="saaim-k" />
-        <br/>
         <img src="https://streak-stats.demolab.com/?user=Saaim-K&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA" height="165" />
 </p>
 
 
 <details>
         <summary>
-                <h4>
+                <h3>
                         Detailed Stats ⚡:
-                </h4>
+                </h3>
         </summary>
-        <p>
+        <p align="center">
                 <img src="https://activity-graph.herokuapp.com/graph?username=Saaim-K&theme=merko&bg_color=151515&point=79fe96&line=79Fe96&area_color=57bf6e"                                width="750"/>
         </p>
 </details>
