@@ -142,8 +142,6 @@ NodeJS*
         <img src="https://streak-stats.demolab.com/?user=Saaim-K&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA"
                 height="165" />
         </p>
-<p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="550"/></p>
-
 <details>
         <summary>
                 <h3>
@@ -154,6 +152,7 @@ NodeJS*
                 <img src="https://activity-graph.herokuapp.com/graph?username=Saaim-K&theme=merko&bg_color=151515&point=79fe96&line=79Fe96&area_color=57bf6e"
                         width="750" />
         </p>
+        <p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="500"/></p>
 </details>
 
 
