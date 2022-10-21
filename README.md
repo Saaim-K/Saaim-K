@@ -141,8 +141,8 @@ NodeJS*
                 alt="saaim-k" height="165" />
         <img src="https://streak-stats.demolab.com/?user=Saaim-K&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA"
                 height="165" />
-</p>
-
+        </p>
+<p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="550"/></p>
 
 <details>
         <summary>
@@ -158,7 +158,7 @@ NodeJS*
 
 
 <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer" />
 </p>
 
 
