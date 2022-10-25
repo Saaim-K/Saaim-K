@@ -18,7 +18,9 @@ NodeJS*
 
 - ✨ Inspiration : Difficult Roads Leads To Beautiful Destinations.
 
-- 👀 <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=Visitors&color=00DB4D"/>
+- <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=🚀 Profile Views&color=00DB4D"/> <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
+
+
 
 
 <h3>Connect With Me 🔗:</h3>
