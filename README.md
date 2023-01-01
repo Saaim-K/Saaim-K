@@ -140,13 +140,21 @@ NodeJS*
 
 <h3> GitHub Stats 📊: </h3>
 
+
+|Stats |Streak |Languages
+|---|---|---|
+|[![Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim-k&theme=gruvbox)](https://github.com/saaim-k/)|[![GitHub Streak](https://streak-stats.demolab.com?user=saaim-k&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/saaim-k/)|[![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim-k&theme=gruvbox)](https://github.com/saaim-k/)|
+
+<p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="560"/></p>
+
+<!-- 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10"
                 alt="saaim-k" height="165" />
         <img src="https://streak-stats.demolab.com/?user=Saaim-K&theme=soft-green&border_radius=10&date_format=j%20M%5B%20Y%5D&background=151515&sideNums=DADADA&currStreakNum=DADADA"
                 height="165" />
         </p>
-         <p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="560"/></p>
+         <p align="center"><img src="https://github.com/Saaim-K/Saaim-K/blob/master/profile-3d-contrib/profile-night-rainbow.svg" height="560"/></p> -->
 <!-- <details>
         <summary>
                 <h3>
