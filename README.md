@@ -12,6 +12,9 @@
 - 🌱 I’m currently learning *JavaScript, React, React Native, Angular JS, Typescript, ExpressJS, Firebase, MongoDB,
 NodeJS*
 
+
+
+
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
 - 📫 You can reach me at *saaim-k@proton.me*
