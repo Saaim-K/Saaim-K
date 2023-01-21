@@ -1,7 +1,6 @@
 <!--**Saaim-K/Saaim-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-
 <h1 align="center">Hi 👋, I'm Saaim Khan</h1>
 <h3 align="center">An Up to Snuff Geek of Cross-Functional Web & Mobile Application Development</h3>
 
@@ -9,11 +8,8 @@
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
         width="300" />
 
-- 🌱 I’m currently learning *JavaScript, React, React Native, Angular JS, Typescript, ExpressJS, Firebase, MongoDB,
-NodeJS*
 
-
-
+- 🌱 I’m currently learning *JavaScript, React, React Native, Angular JS, Typescript, ExpressJS, Firebase, MongoDB, NodeJS*
 
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
@@ -24,7 +20,6 @@ NodeJS*
 - ✨ Inspiration : Difficult Roads Leads To Beautiful Destinations.
 
 - <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=🚀 Profile Views&color=00DB4D"/> <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
-
 
 
 
@@ -50,7 +45,6 @@ NodeJS*
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="Saaim Khan" height="30" width="40" /></a>
 <p>
-
 
 
 <h3>Languages and Tools ⚙️:</h3>
@@ -100,7 +94,6 @@ NodeJS*
 </p>
 
 
-
 <h3> Plans On Learning: </h3>
 
 <p>
@@ -128,7 +121,6 @@ NodeJS*
 </p>
 
 
-
 <h3> Credentials 👨‍🎓: </h3>
 
 <p>
@@ -140,10 +132,7 @@ NodeJS*
 </p>
 
 
-
 <h3> GitHub Stats 📊: </h3>
-
-
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=saaim-k&theme=dark&show_icons=true&locale=en&text_color=DADADA&icon_color=00DB4D&border_radius=10"
