@@ -10,7 +10,7 @@
         width="300" />
 
 
-- 🌱 I’m currently learning *JavaScript, React, React Native, Angular JS, Typescript, ExpressJS, Firebase, MongoDB, NodeJS*
+- 🌱 I’m currently learning *React Native, Angular JS, Typescript*
 
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
