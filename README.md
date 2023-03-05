@@ -12,7 +12,7 @@
         width="300" />
 
 
-- 🌱 I’m currently learning *React Native, Angular JS, Typescript*
+- 🌱 I’m currently learning *React Native, Nest JS, Typescript*
 
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
