@@ -7,10 +7,18 @@
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
         width="300" />
 
-- 🌱 I’m currently learning *React Native, Nest JS, Typescript*
+- 🌐 Web Wizardry: I spin captivating digital experiences with my wizardry in HTML, CSS, and JavaScript. Armed with React.js, Angular,         and Vue.js, I craft pixel-perfect interfaces that will leave your users spellbound.
+  
+- 📱 Mobile Maverick: Harnessing the power of Swift, Kotlin, and cross-platform frameworks like React Native and Flutter, I concoct dazzling mobile apps that run like poetry on both iOS and Android devices.
 
-- 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
+- ⚙️ Backend Sorcery: Armed with the arcane knowledge of Node.js, Express.js, Django, Flask, and Laravel, I forge the backbone of your applications. Databases quiver in my presence—MySQL, PostgreSQL, or MongoDB—nothing escapes my expert touch.
 
+- 🔐 Security Jedi: As a sworn protector of your users' data, I wield encryption techniques, secure authentication, and robust input validation to shield your applications from the darkest of cyber threats. Your peace of mind is my ultimate quest.
+- 🔧 Tech Tools Extraordinaire: Git is my trusty sidekick, keeping code pristine and team collaboration seamless. With an arsenal of testing tools like Jest, Jasmine, and Selenium, I slay bugs and ensure the utmost quality for your digital masterpieces.
+
+- 🌟 Cutting-Edge Enthusiast: Constantly at the vanguard of technological advances, I eagerly embrace the latest frameworks, libraries, and paradigms. My hunger for knowledge is insatiable, propelling me to push boundaries and deliver beyond expectations.
+
+- 🌍 Multiverse Navigator: Fluent in the language of APIs, I deftly traverse RESTful, SOAP, and GraphQL realms, integrating third-party services with ease. Payment gateways, social media platforms, or mapping services—nothing can hide from my integrative prowess.
 - 📫 You can reach me at *saaim-k@proton.me*
 
 - ⚡ Fun fact : *“Experience is the name everyone gives to their mistakes.”* ~ Oscar Wilde
