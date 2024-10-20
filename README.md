@@ -1,32 +1,103 @@
 <!--**Saaim-K/Saaim-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 <h1 align="center">Hi 👋, I'm Saaim Khan</h1>
-<h3 align="center"> A Coding Maestro with an Insatiable Thirst for Innovation and a Flair for all things tech.</h3>
+<h3 align="center">A Full Stack Developer with a passion for building web solutions and improving user experiences.</h3>
 
 <img align="right"
         src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
         width="300" />
 
-- 🌐 Web Wizardry: I spin captivating digital experiences with my wizardry in HTML, CSS, and JavaScript. Armed with React.js, Angular,         and Vue.js, I craft pixel-perfect interfaces that will leave your users spellbound.
-  
-- 📱 Mobile Maverick: Harnessing the power of Swift, Kotlin, and cross-platform frameworks like React Native and Flutter, I concoct dazzling mobile apps that run like poetry on both iOS and Android devices.
-
-- ⚙️ Backend Sorcery: Armed with the arcane knowledge of Node.js, Express.js, Django, Flask, and Laravel, I forge the backbone of your applications. Databases quiver in my presence—MySQL, PostgreSQL, or MongoDB—nothing escapes my expert touch.
-
-- 🔐 Security Jedi: As a sworn protector of your users' data, I wield encryption techniques, secure authentication, and robust input validation to shield your applications from the darkest of cyber threats. Your peace of mind is my ultimate quest.
-- 🔧 Tech Tools Extraordinaire: Git is my trusty sidekick, keeping code pristine and team collaboration seamless. With an arsenal of testing tools like Jest, Jasmine, and Selenium, I slay bugs and ensure the utmost quality for your digital masterpieces.
-
-- 🌟 Cutting-Edge Enthusiast: Constantly at the vanguard of technological advances, I eagerly embrace the latest frameworks, libraries, and paradigms. My hunger for knowledge is insatiable, propelling me to push boundaries and deliver beyond expectations.
-
-- 🌍 Multiverse Navigator: Fluent in the language of APIs, I deftly traverse RESTful, SOAP, and GraphQL realms, integrating third-party services with ease. Payment gateways, social media platforms, or mapping services—nothing can hide from my integrative prowess.
+- 🌐 I excel in front-end development with **HTML, CSS, JavaScript**, and frameworks like **React.js**.  
+- ⚙️ Skilled in back-end technologies like **PHP**, **Node.js**, and **Express.js**, I build scalable and efficient systems.  
+- 💻 Proficient in CMS platforms such as **WordPress** and **Shopify**, I develop tailored e-commerce and blogging solutions.  
+- 🔧 I integrate third-party services and APIs, managing **MySQL** and **MongoDB** databases.  
+- 🔍 Focused on **on-page SEO** optimization using **Yoast SEO**, **Moz**, and **Google Analytics**.  
+- 🛠️ Version control with **Git** and UI/UX design through tools like **Adobe XD**, **Sketch**, and **Figma**.  
+- 🚀 I specialize in **website speed optimization** and **performance tuning** for the best user experience.  
 - 📫 You can reach me at *saaim-k@proton.me*
 
-- ⚡ Fun fact : *“Experience is the name everyone gives to their mistakes.”* ~ Oscar Wilde
+---
 
-- ✨ Inspiration : Difficult Roads Leads To Beautiful Destinations.
+## 🛠️ Technical Skills
 
-- <img src="https://komarev.com/ghpvc/?username=Saaim-K&style=flat-square&label=🚀 Profile Views&color=00DB4D"/> <a href="https://wakatime.com/@d6804e78-f790-4d21-8394-5a6fc5495c94"><img src="https://wakatime.com/badge/user/d6804e78-f790-4d21-8394-5a6fc5495c94.svg?style=flat-square" alt="Total time coded since Oct 12 2022" /></a>
+- **Front-End:** HTML, CSS, JavaScript, React.js  
+- **Back-End:** PHP, Node.js, Express.js  
+- **CMS Platforms:** WordPress, Shopify, Joomla, Drupal  
+- **Database Management:** MySQL, MongoDB  
+- **UI Design Tools:** Adobe XD, Sketch, Figma  
+- **SEO Tools:** Yoast SEO, Moz, Google Analytics, SEMrush, Ahrefs  
+- **Website Optimization:** Speed optimization and performance tuning  
+- **Version Control:** Git  
+- **Third-Party Integrations:** Google Reviews, API integration
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Electronics Engineering**  
+*Dawood University of Engineering and Technology, Karachi*  
+2019 – Present
+
+**Diploma in Full Stack Development**  
+*Saylani Mass IT Training*  
+2022 – 2023
+
+---
+
+## 💼 Professional Experience
+
+### WordPress & Shopify Developer (Remote)  
+**Info Latch (United Kingdom)**  
+*December 2023 – Present*  
+- Developed and maintained e-commerce and blogging platforms using **WordPress** and **Shopify**.  
+- Designed front-end architecture with a focus on responsiveness and **UX/UI** optimization.  
+- Resolved technical issues and implemented new features while adhering to best practices for clean and scalable code.
+
+### Full Stack Developer  
+**ARG Dynamics (Onsite)**  
+*May 2023 – Present*  
+- Collaborated on the design and creation of hiring software.  
+- Developed responsive front-end web architecture and contributed to back-end systems.  
+- Worked across teams to address implementation issues and improve internal tools.
+
+### Full Stack Developer  
+**Four Bits LLC (Onsite)**  
+*March 2022 – May 2023*  
+- Performed coding, debugging, and unit testing in support of various projects.  
+- Maintained and upgraded both front-end and back-end systems, ensuring adherence to modern programming standards.
+
+---
+
+## 🏆 Certifications
+
+- **Create Your E-Commerce Store with Shopify** – Coursera, 2024  
+- **Certificate of Membership** – PAFLA (Pakistan Freelancers Association), 2024
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
