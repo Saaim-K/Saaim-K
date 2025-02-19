@@ -46,9 +46,19 @@
 
 ## 💼 Professional Experience
 
-### WordPress & Shopify Developer (Remote)  
+### Website Support & Security Specialist (Remote)  
+**Tradie Web Guys (Australia)**  
+*October 2024 – Present*  
+- Manage and maintain over **100 websites**, ensuring optimal performance and security.  
+- Provide **client support, hosting support, and DNS configuration** to ensure seamless website operations.  
+- Monitor website health, resolve technical issues, and optimize SEO structure.  
+- Oversee **plugin verification, activation, and troubleshooting** to maintain functionality and stability.  
+- Perform **virus detection and malware removal**, safeguarding websites from security threats.  
+
+
+### WordPress & Shopify Developer (Project Based)  
 **Info Latch (United Kingdom)**  
-*December 2023 – Present*  
+*August 2024 – Present*  
 - Developed and maintained e-commerce and blogging platforms using **WordPress** and **Shopify**.  
 - Designed front-end architecture with a focus on responsiveness and **UX/UI** optimization.  
 - Resolved technical issues and implemented new features while adhering to best practices for clean and scalable code.
